@@ -4,4 +4,4 @@
 /* Create your new element here and assign it to newHeader */
 const newHeader = document.createElement('h1');
 newHeader.setAttribute("id","victory");
-newHeader.innerText("YOUR-NAME is the champion");
+newHeader.innerText = "YOUR-NAME is the champion";
